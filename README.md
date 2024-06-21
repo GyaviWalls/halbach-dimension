@@ -12,11 +12,11 @@ The [Halbach array](https://en.wikipedia.org/wiki/Halbach_array) is a fascinatin
 Recognizing this, we used reinforcement learning to determine configurations with the highest field intensity. Interestingly, these configurations closely resemble a Halbach array but with certain adjustments.
 
 ## Repository contents
-- (/imgs)[https://github.com/GyaviWalls/halbach-dimension/tree/main/imgs]   ->   contains simulation images or snapshots taken to illustrate the concept
-- (content.html)[https://htmlpreview.github.io/?https://github.com/GyaviWalls/halbach-dimension/blob/152cab65ad3283eaf4547043a875f502229b70fa/content.html]  ->  The primary file for user viewing and reading.
-- (content.ipynb)[https://github.com/GyaviWalls/halbach-dimension/blob/main/content.ipynb]  ->   jupyter notebook file used for executing the code
-- (playground.html)[https://github.com/GyaviWalls/halbach-dimension/blob/main/content.ipynb]  ->  testing area for scripting code to be used in the implementation
-- *.fem  ->  simulation files implemented using the (femm simulation software)[]
+- <a href="https://github.com/GyaviWalls/halbach-dimension/tree/main/imgs">imgs</a>   ->   contains simulation images or snapshots taken to illustrate the concept
+- <a href="https://htmlpreview.github.io/?https://github.com/GyaviWalls/halbach-dimension/blob/152cab65ad3283eaf4547043a875f502229b70fa/content.html">content.html</a>  ->  The primary file for user viewing and reading.
+- <a href="https://github.com/GyaviWalls/halbach-dimension/blob/main/content.ipynb">content.ipynb</a>  ->   jupyter notebook file used for executing the code
+- <a href="https://github.com/GyaviWalls/halbach-dimension/blob/main/playground.ipynb">playground.ipynb</a>  ->  testing area for scripting code to be used in the implementation
+- *.fem  ->  simulation files implemented using the <a href="https://www.femm.info/wiki/HomePage">femm simulation software</a>
 
 ## Example
 Below is a tabular representation of one of the reviewed configurations, displaying the pole diagram, the simulation representation, and the resultant field diagram.
@@ -28,4 +28,4 @@ Below is a tabular representation of one of the reviewed configurations, display
 Future studies should focus on setups where the magnetic field of each individual magnet can be changed at will. This would allow for a detailed examination of how magnetic patterns shift from one permutation to another and back. Such studies could lead to significant advancements by providing deeper insights into the dynamic nature of magnetic fields.
 
 ## Caveats
-It's unfortunate that the markdown within the (contents jupuyter notebook file)[https://github.com/GyaviWalls/halbach-dimension/blob/main/content.ipynb] can't be rendered. Therefore, I recommend viewing the images using the [contents HTML file](https://htmlpreview.github.io/?https://github.com/GyaviWalls/halbach-dimension/blob/152cab65ad3283eaf4547043a875f502229b70fa/content.html) file instead.
+It's unfortunate that the markdown within the <a href="https://github.com/GyaviWalls/halbach-dimension/blob/main/content.ipynb">contents jupuyter notebook file</a> can't be rendered. Therefore, I recommend viewing the images using the [contents HTML file](https://htmlpreview.github.io/?https://github.com/GyaviWalls/halbach-dimension/blob/152cab65ad3283eaf4547043a875f502229b70fa/content.html) file instead.
